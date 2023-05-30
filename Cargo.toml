@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "lib",
+    "proc_macro_tests"
+]
