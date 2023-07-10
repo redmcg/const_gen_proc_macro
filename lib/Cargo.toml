@@ -1,6 +1,6 @@
 [package]
 name = "const_gen_proc_macro"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Create proc macro that adds compile time functionality for the creation of constants"
